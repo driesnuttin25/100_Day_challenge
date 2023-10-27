@@ -16,4 +16,4 @@ Objective: Create a simple calculator that can perform basic arithmetic operatio
 ## Tips:
 - You can use std::cin and std::cout for user input and output.
 - Use switch statements or if-else conditions to handle user choices.
-- After you're done coding, feel free to share the code with me for review. Good luck!
+- After you're done coding, feel free to share the code with me for review.
