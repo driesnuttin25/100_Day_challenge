@@ -1,5 +1,5 @@
 # Challenge: Fibonacci Sequence Generator
-## Objective: Write a program that generates the Fibonacci sequence up to a user-defined number n.
+Objective: Write a program that generates the Fibonacci sequence up to a user-defined number n.
 
 ## Requirements:
 - Prompt the user to enter a number n.
