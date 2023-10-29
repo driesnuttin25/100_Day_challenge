@@ -1,7 +1,5 @@
-# Challenge: 
-String Reversal and Palindrome Checker
-## Objective: 
-Write a program that reverses a string entered by the user and checks if it's a palindrome.
+# Challenge: String Reversal and Palindrome Checker
+Objective: Write a program that reverses a string entered by the user and checks if it's a palindrome.
 
 ## Requirements:
 - Prompt the user to enter a string.
