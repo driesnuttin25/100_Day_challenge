@@ -12,3 +12,6 @@ The challenges are provided by chatgpt 4.
 - Advanced Options: If you find that you have more time, I can provide you with additional challenges or extensions to the day's project.
 
 - Environment: Since QT is used as the IDE, I'll ensure that the challenges are compatible with it.
+
+## Extra rules:
+Don't use ChatGPT for help
