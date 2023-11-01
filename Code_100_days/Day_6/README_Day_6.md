@@ -10,7 +10,6 @@ Create a simple chatbot program in C++ that asks the user for their name and the
 Here's an example of what the conversation might look like:
 
 ```plaintext
-Copy code
 Chatbot: Hello! What's your name?
 User: John
 Chatbot: Nice to meet you, John! What would you like to talk about today?
