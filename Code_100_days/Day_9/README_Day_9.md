@@ -1,4 +1,4 @@
-# Day 8 (Revisited): Object-Oriented Programming in C++
+# Day 9 (Revisited): Object-Oriented Programming in C++
 
 ## 1. Introduction to OOP
 Object-Oriented Programming (OOP) is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects. In C++, you achieve this with classes and objects.
@@ -28,7 +28,7 @@ int main() {
 ## 4. Encapsulation
 Encapsulation means binding the data (attributes) and the code (methods) together as a single unit. It also restricts direct access to some of the object's components, which is a means of preventing unintended interference and misuse of the data.
 
-## 5. Task for Day 8 (Revisited):
+## 5. Task for Day 8 (Day 8 revisitedRevisited):
 - **Refactor the quiz game with OOP:** Create a class named `Quiz` that will handle all the functionalities related to the quiz game. Some suggested methods for the class could be:
   - `addQuestion()`: Adds a question to the quiz.
   - `displayQuestion()`: Displays a question from the quiz.
